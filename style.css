@@ -1,5 +1,17 @@
+body {
+font-family: Arial, sans-serif;
+background-color: #f5f2e3;
+}
 
 
+/* MAIN PAGE*/
+.odin-recipe-header {
+    color: white;
+    background-color: black;
+    /* display: inline-block; */
+    padding: 10px;
+    margin-bottom: 0;
+}
 
 
 /* COOKIES  */
@@ -9,7 +21,6 @@
     padding: 10px;
     margin-top: 0;
     text-transform: uppercase;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 /* PANCAKES */
@@ -18,8 +29,6 @@
     text-align: center;
     padding: 10px;
     margin-top: 0;
-    text-transform: uppercase;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 /* MEATBALLS */
@@ -29,6 +38,5 @@
     padding: 10px;
     margin-top: 0;
     text-transform: uppercase;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: white;
 }
